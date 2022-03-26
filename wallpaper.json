@@ -2,11 +2,11 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5186865206665538/5613003304",
+      "main_ads_intertitial":"ca-app-pub-5186865206665538/1673758291",
+      "backup_ads_banner":"7930557ba3847494",
+      "backup_ads_intertitial":"9fd2b2c9fbcf1c51",
       "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
@@ -40,6 +40,4 @@
       "link":"https://play.google.com/store/apps/details?id=com.doasholattarawih"
     }
   ]
-
-  
 }
